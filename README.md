@@ -1,10 +1,8 @@
 # CST8916 Final Project
 # Rideau Canal monitoring system
-This project simulates a real-time IoT monitoring system for Rideau Canal.
-
-It collects sensor data, processes data using Azure Stream Analytics, stores results in CosmosDB,
-
-keeps backup data files into Blob storage, and shows everything in a live dashboard.
+This project simulates a real-time IoT monitoring system for Rideau Canal.  
+It collects sensor data, processes data using Azure Stream Analytics, stores results in CosmosDB,  
+keeps backup data files into Blob storage, and shows everything in a live dashboard.  
 
 ## Demo Video
 https://youtu.be/FcgIQtk7VTk
@@ -61,10 +59,10 @@ https://github.com/Jingjing-Duan/Sensor-Simulation
 https://github.com/Jingjing-Duan/rideau-canal-dashboard
 
 ## How to Run
-1. Sensor Simulator
-    pip install -r requirements.txt
-    python sensor_simulator.py
+1. Sensor Simulator  
+    pip install -r requirements.txt  
+    python sensor_simulator.py  
 
-2. Dashboard
-    npm install
-    node server.js
+2. Dashboard  
+    npm install  
+    node server.js  
