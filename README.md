@@ -52,8 +52,8 @@ https://youtu.be/FcgIQtk7VTk
 ![alt text](screenshots/08-dashboard-azure.png)
 
 ## Related Repositories
-1. Sensor-Simulation
-https://github.com/Jingjing-Duan/Sensor-Simulation
+1. rideau-canal-sensor-simulation
+https://github.com/Jingjing-Duan/rideau-canal-sensor-simulation
 
 2. rideau-canal-dashboard
 https://github.com/Jingjing-Duan/rideau-canal-dashboard
