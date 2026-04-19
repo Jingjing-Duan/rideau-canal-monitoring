@@ -178,8 +178,7 @@ The web dashboard is deployed using Azure App Service for public access.
 
 ## Video Demonstration
 
-Video Link:  
-https://youtu.be/FcgIQtk7VTk 
+Video Link: [\[YouTube\]](https://youtu.be/FcgIQtk7VTk)
 
 ---
 
